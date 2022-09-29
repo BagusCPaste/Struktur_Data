@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664424034 source:d:\kuliah\semester 3\std - struktur data\project\modifikasi_paket\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
